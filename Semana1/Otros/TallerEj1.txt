@@ -1,0 +1,29 @@
+Camioneros
+- camionerosID
+- DNI
+- nombre
+- teléfono
+- dirección
+- salario
+- población_vive
+
+
+Paquetes
+- paqueteID
+- código
+- descripción
+- destinatario
+- dirección_destinatario
+
+Provincias
+- provinciaID
+- código
+- nombre
+
+Camiones
+- camionID
+- matricula
+- modelo
+- tipo
+- potencia
+
